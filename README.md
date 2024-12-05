@@ -30,7 +30,7 @@ This project is designed to learn the fundamentals of creating a RESTful API usi
 
 2. Navigate to the project directory:
    ```bash
-   cd basic-crud-express
+   cd basic-crud-with-express-js
    ```
 
 3. Install the dependencies:
